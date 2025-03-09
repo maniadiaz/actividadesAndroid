@@ -18,7 +18,7 @@ This project serves as a learning resource for beginners looking to explore the 
 
 ## 📂 Project Structure
 
-'''bash
-├── Java # Java source files
-├── Kotlin # Kotlin source files
+```bash
+├── Java      # Java source files
+├── Kotlin    # Kotlin source files
 └── README.md # Project documentation
