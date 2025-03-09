@@ -13,3 +13,12 @@ This project serves as a learning resource for beginners looking to explore the 
 - **Android Studio**: Development environment
 - **Java**: Programming language
 - **Kotlin**: Programming language
+
+---
+
+## 📂 Project Structure
+
+'''bash
+├── Java # Java source files
+├── Kotlin # Kotlin source files
+└── README.md # Project documentation
